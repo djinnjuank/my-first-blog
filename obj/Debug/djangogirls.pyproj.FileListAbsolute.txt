@@ -1,0 +1,15 @@
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\bin\Microsoft.PythonTools.WebRole.dll
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\obj\Debug\attach_server.py
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\obj\Debug\visualstudio_py_debugger.py
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\obj\Debug\visualstudio_py_repl.py
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\obj\Debug\visualstudio_py_util.py
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\obj\Debug\__init__.py
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\obj\Debug\__main__.py
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\bin\AzureSetup.cfg
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\bin\Microsoft.PythonTools.AzureSetup.exe
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\bin\Microsoft.PythonTools.AzureSetup.exe.config
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\bin\wfastcgi.py
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\obj\Debug\deployment-updated-orig-prefix.txt
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\ptvs_virtualenv_proxy.py
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\obj\Debug\web.config
+c:\users\juank\documents\visual studio 2013\Projects\djangogirls\djangogirls\obj\Debug\web.debug.config

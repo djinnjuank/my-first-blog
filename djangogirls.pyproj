@@ -6,6 +6,7 @@
     <RootNamespace>djangogirls</RootNamespace>
     <InterpreterId>{ee4bc102-ba33-403d-886f-71a0025d332f}</InterpreterId>
     <InterpreterVersion>2.7</InterpreterVersion>
+    <IsWindowsApplication>False</IsWindowsApplication>
   </PropertyGroup>
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
@@ -38,8 +39,12 @@
     <Compile Include="blog\migrations\__init__.py" />
     <Compile Include="blog\models.py" />
     <Compile Include="blog\tests.py" />
+    <Compile Include="blog\urls.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="blog\views.py" />
     <Compile Include="blog\__init__.py" />
+    <Compile Include="djangogirls\urls - Copy.py" />
     <Compile Include="manage.py" />
     <Compile Include="djangogirls\__init__.py" />
     <Compile Include="djangogirls\settings.py" />
@@ -57,9 +62,12 @@
     <Folder Include="app\templates\app\" />
     <Folder Include="blog\" />
     <Folder Include="blog\migrations\" />
+    <Folder Include="blog\templates\" />
+    <Folder Include="blog\templates\blog\" />
     <Folder Include="djangogirls\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="blog\templates\blog\post_list.html" />
     <Content Include="Procfile" />
     <Content Include="requirements.txt" />
     <Content Include="db.sqlite3" />

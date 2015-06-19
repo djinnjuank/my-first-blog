@@ -6,7 +6,7 @@
             {{ post.published_date }}
         </div>
        <h1><a href="{% url "blog.views.post_detail" pk=post.pk %}">{{ post.title }}</a></h1>
-        <p>{{ post.text|linebreaks|truncatewords:5 }}</p>
+        <p>{{ post.text|truncatechars:30 }}</p>
 
         <a class="navbar-link" href="{% url "blog.views.post_detail" pk=post.pk %}">See more...</a>
     </div>
